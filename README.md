@@ -6,7 +6,7 @@ Soy Belu, desarrolladora web fullstack y profe de programación.
 - Una app de encuestas en Angular
 - Un proyecto de eCommerce en React
 
-💬 Hablame sobre desarrollo web, Python, y accesibilidad.
+💬 Hablame sobre desarrollo web y Python.
 
 🌱 Proximamente aprendiendo: Desarrollo de videojuegos.
 
