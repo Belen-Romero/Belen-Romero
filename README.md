@@ -10,5 +10,3 @@ Soy Belu, desarrolladora web fullstack y profe de programación.
 
 🌱 Proximamente aprendiendo: Desarrollo de videojuegos.
 
-📫 Cómo contactarme: [LinkedIn] | [Twitter]
-
