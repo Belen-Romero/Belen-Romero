@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy Ana, desarrolladora front-end y profe de programación. Me encanta enseñar y crear proyectos creativos.
+Soy Belu, desarrolladora web fullstack y profe de programación.
 
 🚀 Actualmente trabajando en:
 - Una app de encuestas en Angular
@@ -8,7 +8,7 @@ Soy Ana, desarrolladora front-end y profe de programación. Me encanta enseñar 
 
 💬 Hablame sobre desarrollo web, Python, y accesibilidad.
 
-🌱 Aprendiendo: DevOps y arquitectura de software.
+🌱 Proximamente aprendiendo: Desarrollo de videojuegos.
 
 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/ana-romero/) | [Twitter](https://twitter.com/anaromero)
 
