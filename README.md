@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**Belen-Romero/Belen-Romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ana, desarrolladora front-end y profe de programación. Me encanta enseñar y crear proyectos creativos.
 
-Here are some ideas to get you started:
+🚀 Actualmente trabajando en:
+- Una app de encuestas en Angular
+- Un proyecto de eCommerce en React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Hablame sobre desarrollo web, Python, y accesibilidad.
+
+🌱 Aprendiendo: DevOps y arquitectura de software.
+
+📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/ana-romero/) | [Twitter](https://twitter.com/anaromero)
+
