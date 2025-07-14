@@ -10,5 +10,5 @@ Soy Belu, desarrolladora web fullstack y profe de programación.
 
 🌱 Proximamente aprendiendo: Desarrollo de videojuegos.
 
-📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/ana-romero/) | [Twitter](https://twitter.com/anaromero)
+📫 Cómo contactarme: [LinkedIn] | [Twitter]
 
